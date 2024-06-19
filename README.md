@@ -1,0 +1,1 @@
+This is an extension/variation of the DJANGO_ENCODER project. The only difference here is that it displays both the odd and even days encoded messages so as to be able to check whether both the encoded messsage logic is working as intended.
